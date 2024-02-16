@@ -1,6 +1,6 @@
 # Module Image
 
-Création de fonction permettant de simuler des pixels, des images et d'afficher celle-ci avec SDL2.
+Création de fonction permettant de simuler des pixels, des images et d'afficher celle-ci avec SDL2 dans le cadre du LIFAP4.
 
 ## I) Requis
 1. Linux OS
@@ -46,3 +46,7 @@ Création de fonction permettant de simuler des pixels, des images et d'afficher
 ```bash
 ./bin/affichage
 ```
+
+### Collaborateurs
+
+
