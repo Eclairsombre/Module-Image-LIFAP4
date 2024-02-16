@@ -47,6 +47,9 @@ Création de fonction permettant de simuler des pixels, des images et d'afficher
 ./bin/affichage
 ```
 
-### Collaborateurs
+## V) Collaborateurs
+<a href="https://github.com/Xeon0X">Xeon0X</a>
+<a href="https://github.com/You6f">You6f</a>
+
 
 
